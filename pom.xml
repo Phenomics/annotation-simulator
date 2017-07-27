@@ -14,7 +14,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <ontolib.version>0.1-SNAPSHOT</ontolib.version>
+    <ontolib.version>0.1</ontolib.version>
     <junit.version>4.12</junit.version>
     <hamcrest.version>1.3</hamcrest.version>
     <guava.version>22.0</guava.version>
